@@ -1,1 +1,1 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+I’m a freelance web developer who specializes in WordPress. I create functional, fast and responsive websites optimized for search engines.

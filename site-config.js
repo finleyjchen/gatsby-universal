@@ -1,12 +1,12 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Gatsby Universal`,
-  siteTitleShort: `GatsbyU`,
-  siteDescription: `An opinionated starter for Gatsby.`,
-  siteUrl: `https://gu.fabianschultz.com`,
+  siteTitle: `Finley Chen`,
+  siteTitleShort: `fjchen.net`,
+  siteDescription: `Aspiring Full-Stack Web Developer.`,
+  siteUrl: `https://fjchen.net`,
   themeColor: `#000`,
-  backgroundColor: `#fff`,
+  backgroundColor: `#f4f4f4`,
   pathPrefix: null,
   logo: path.resolve(__dirname, 'src/images/icon.png'),
   social: {
